@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS Data"
+author: "Mawuse Tawiah"
+date: "2025-07-07"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project [here](https://demolandscapes.info/){target="_blank"}
+
+```{r}
+1 + 1
+```
